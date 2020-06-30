@@ -21,7 +21,7 @@ public class VariablesCondicionales {
 	public static void mayoriaEdad() {
 		
 		int edad=23;
-//		System.out.println("digite edad de la persona: ");
+//		System.out.println("digite edad de la persona:");
 //		Scanner teclado = new Scanner(System.in);
 //		edad=teclado.nextInt();
 		

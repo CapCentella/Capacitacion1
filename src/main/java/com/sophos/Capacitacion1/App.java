@@ -16,6 +16,23 @@ public class App
        carro.asignarCarro();
        carro.escribirCarro();
        
-       
+       Driver obj = new Driver();
+       obj.navegadorGoogle();
+       obj.cerrarNavegador();
     }
+    
+     
+    public void ejecutor() {  //este lo cree para ejecutar la prueba unitaria
+    	
+    	VariablesCondicionales.mayoriaEdad();
+        
+        Carro carro= new Carro();
+        carro.asignarCarro();
+        carro.escribirCarro();
+        
+        Driver obj = new Driver();
+        obj.navegadorGoogle();
+        obj.cerrarNavegador();
+    }
+    
 }
