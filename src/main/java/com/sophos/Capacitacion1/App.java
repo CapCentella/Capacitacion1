@@ -18,6 +18,7 @@ public class App
        
        Driver obj = new Driver();
        obj.navegadorGoogle();
+       obj.buscarDato();
        obj.cerrarNavegador();
     }
     
